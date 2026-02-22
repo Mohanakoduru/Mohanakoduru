@@ -27,20 +27,19 @@
 ---
 
 <!-- ABOUT ME - PERSONALITY DRIVEN -->
-## 🧠 `whoami`
+## 🧠 `who am I`
 
 ```yaml
 Name        : Mohan Naga Sai Ayyappa Koduru
-Role        : AI & Data Science Undergrad → Future AI Engineer
 Location    : Mylavaram, Andhra Pradesh, India 🇮🇳
 University  : Lakireddy Bali Reddy College of Engineering
-CGPA        : 8.16 / 10.0  |  Graduating: May 2027
+
 
 Currently   :
   - 🔨 Building production-ready AI tools (not just notebooks)
   - 🧪 Exploring LLMs, Explainable AI & NLP pipelines
   - 🏆 Competing at national-level hackathons
-  - 🏏 Playing cricket for Krishna District Cricket Association
+  
 
 Philosophy  : "Don't just learn AI. Ship it."
 
